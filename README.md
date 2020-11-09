@@ -462,7 +462,7 @@ earlier version of `fmt`, such as `fmt/6.0.0`, and then run:
 version of `fmt`.
 
 ## Testing
-See [Catch2 tutorial](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md)
+See [Gtest tutorial](https://github.com/google/googletest)
 
 ## Fuzz testing
 
